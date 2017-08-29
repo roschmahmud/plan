@@ -1,0 +1,428 @@
+{
+	"a_woche": {
+		"montag": [
+			[
+				"1 - 2", "LK2",
+				{"fach": "BI", "kurs": "L1", "lehrer": "Di", "raum": "H206"},
+				{"fach": "CH", "kurs": "L1", "lehrer": "BLS", "raum": "BLS3"},
+				{"fach": "D", "kurs": "L2", "lehrer": "Lou", "raum": "H304"},
+				{"fach": "E", "kurs": "L2", "lehrer": "Sna", "raum": "H113"},
+				{"fach": "F", "kurs": "L1", "lehrer": "BLS", "raum": "BLS4"},  
+				{"fach": "GE", "kurs": "L2", "lehrer": "Keu", "raum": "H305"},
+				{"fach": "M", "kurs": "L2", "lehrer": "Kal", "raum": "H410"},
+				{"fach": "PH", "kurs": "L1", "lehrer": "Dol", "raum": "H401"}
+			],
+			[
+				"3 - 4", "LK1",
+				{"fach": "D", "kurs": "L1", "lehrer": "Ign", "raum": "H304"},
+				{"fach": "E", "kurs": "L1", "lehrer": "Wei", "raum": "H113"},
+				{"fach": "EK", "kurs": "L1", "lehrer": "Sim", "raum": "H303"},  
+				{"fach": "GE", "kurs": "L1", "lehrer": "Hah", "raum": "H305"},
+				{"fach": "M", "kurs": "L1", "lehrer": "Gru", "raum": "H411"}
+			],
+			[
+				"5", "GK7",
+				{"fach": "CH", "kurs": "PXCH", "lehrer": "Fel", "raum": "H405"},
+				{"fach": "D", "kurs": "G1", "lehrer": "Dah", "raum": "H304"},
+				{"fach": "E", "kurs": "G1", "lehrer": "Br", "raum": "H215"},  
+				{"fach": "M", "kurs": "G2", "lehrer": "Kal", "raum": "H410"}
+			],
+			[
+				"6", "GK7",
+				{"fach": "PXCH", "kurs": "", "lehrer": "Fel", "raum": "H405"},
+				{"fach": "D", "kurs": "G1", "lehrer": "Dah", "raum": "H304"},
+				{"fach": "E", "kurs": "G1", "lehrer": "Br", "raum": "H215"},  
+				{"fach": "M", "kurs": "G2", "lehrer": "Kal", "raum": "H410"}
+			],
+			[
+				"7 - 8", "GK9",
+				{"fach": "BI", "kurs": "G3", "lehrer": "Sel", "raum": "H206"},
+				{"fach": "CH", "kurs": "G1", "lehrer": "Fel", "raum": "H405"},
+				{"fach": "KU", "kurs": "G2", "lehrer": "Ba", "raum": "H502"},  
+				{"fach": "PA", "kurs": "G2", "lehrer": "JK", "raum": "H411"},
+				{"fach": "PH", "kurs": "G1", "lehrer": "Vo", "raum": "H401"}
+			]
+		],
+		"dienstag": [
+			[
+				"1 - 2", "GK9",
+				{"fach": "BI", "kurs": "G3", "lehrer": "Sel", "raum": "H206"},
+				{"fach": "CH", "kurs": "G1", "lehrer": "Fel", "raum": "H405"},
+				{"fach": "KU", "kurs": "G2", "lehrer": "Ba", "raum": "H502"}, 
+				{"fach": "PA", "kurs": "G2", "lehrer": "JK", "raum": "410"},
+				{"fach": "PH", "kurs": "G1", "lehrer": "Vo", "raum": "H401"}
+			],
+			[
+				"3 - 4", "GK2",
+				{"fach": "KR", "kurs": "G1", "lehrer": "Hbt", "raum": "H411"},
+				{"fach": "KR", "kurs": "G2", "lehrer": "Dah", "raum": "H410"},
+				{"fach": "ER", "kurs": "G1", "lehrer": "Me", "raum": "H211"}, 
+				{"fach": "PL", "kurs": "G1", "lehrer": "Cre", "raum": "H211"},
+				{"fach": "PL", "kurs": "G2", "lehrer": "Ign", "raum": "H211"}
+			],
+			[
+				"5", "GK3",
+				{"fach": "KU", "kurs": "G1", "lehrer": "Ba", "raum": "H502"},
+				{"fach": "LI", "kurs": "G1", "lehrer": "Hbt", "raum": "H208"},
+				{"fach": "MU", "kurs": "G1", "lehrer": "Bu", "raum": "H300"}, 
+				{"fach": "S0", "kurs": "G2", "lehrer": "FrC", "raum": "H106"}
+			],
+			[
+				"6", "GK3",
+				{"fach": "KU", "kurs": "G1", "lehrer": "Ba", "raum": "H502"},
+				{"fach": "LI", "kurs": "G1", "lehrer": "Hbt", "raum": "H208"},
+				{"fach": "MU", "kurs": "G1", "lehrer": "Bu", "raum": "H300"}, 
+				{"fach": "S0", "kurs": "G2", "lehrer": "FrC", "raum": "H106"}
+			],
+			[
+				"7", "LK2",
+				{"fach": "BI", "kurs": "L1", "lehrer": "Di", "raum": "H204"},
+				{"fach": "CH", "kurs": "L1", "lehrer": "BLS", "raum": "BLS3"},
+				{"fach": "D", "kurs": "L2", "lehrer": "Lou", "raum": "H307"},
+				{"fach": "E", "kurs": "L2", "lehrer": "Sna", "raum": "H210"}, 
+				{"fach": "F", "kurs": "L1", "lehrer": "BLS", "raum": "BLS4"},
+				{"fach": "GE", "kurs": "L2", "lehrer": "Keu", "raum": "H305"}
+			],
+			[
+				"8 - 9", "",
+				{"fach": "S0", "kurs": "G3", "lehrer": "FrC", "raum": "H106"}
+			]
+		],
+		"mittwoch": [
+			[
+				"1 - 2", "GK1",
+				{"fach": "PXBC", "kurs": "", "lehrer": "Hbt", "raum": "H411"},
+				{"fach": "D", "kurs": "G3", "lehrer": "Dah", "raum": "H304"},
+				{"fach": "SP", "kurs": "G5", "lehrer": "Bch", "raum": "E-1, E-"},  
+				{"fach": "VXEG", "kurs": "", "lehrer": "Stz", "raum": "N108"},
+				{"fach": "VXDG", "kurs": "", "lehrer": "Sty", "raum": "H304"}
+			],
+			[
+				"3 - 4", "GK8",
+				{"fach": "BI", "kurs": "G1", "lehrer": "Ger", "raum": "H206"},
+				{"fach": "GE", "kurs": "G1", "lehrer": "Keu", "raum": "H305"}, 
+				{"fach": "PA", "kurs": "G1", "lehrer": "JK", "raum": "H414"}
+			],
+			[
+				"5", "GK6",
+				{"fach": "EK", "kurs": "G1", "lehrer": "Ber", "raum": "H303"},
+				{"fach": "EKEG", "kurs": "", "lehrer": "Hz", "raum": "H304"},
+				{"fach": "M", "kurs": "G1", "lehrer": "Cre", "raum": "H411"}, 
+				{"fach": "SW", "kurs": "G1", "lehrer": "Lou", "raum": "H415"}
+			],
+			[
+				"6", "GK6",
+				{"fach": "EK", "kurs": "G1", "lehrer": "Ber", "raum": "H303"},
+				{"fach": "EKEG", "kurs": "", "lehrer": "Hz", "raum": "H304"},
+				{"fach": "M", "kurs": "G1", "lehrer": "Cre", "raum": "H411"}, 
+				{"fach": "SW", "kurs": "G1", "lehrer": "Lou", "raum": "H415"}
+			],
+			[
+				"7 - 8", "",
+				{"fach": "PXGE", "kurs": "", "lehrer": "Fin", "raum": "N307"},
+				{"fach": "BI", "kurs": "G2", "lehrer": "Dol", "raum": "H206"},
+				{"fach": "D", "kurs": "G2", "lehrer": "Har", "raum": "H304"},
+				{"fach": "S0", "kurs": "G1", "lehrer": "Fe", "raum": "H105"},
+				{"fach": "SW", "kurs": "G2", "lehrer": "Sna", "raum": "H105"}
+			]
+		],
+		"donnerstag": [
+			[
+				"1 - 2", "LK2",
+				{"fach": "BI", "kurs": "L1", "lehrer": "Di", "raum": "N318"},
+				{"fach": "CH", "kurs": "L1", "lehrer": "BLS", "raum": "BLS3"},
+				{"fach": "D", "kurs": "L2", "lehrer": "Lou", "raum": "H304"},
+				{"fach": "E", "kurs": "L2", "lehrer": "Sna", "raum": "H212"},
+				{"fach": "F", "kurs": "L1", "lehrer": "BLS", "raum": "BLS4"}, 
+				{"fach": "GE", "kurs": "L2", "lehrer": "Keu", "raum": "H307"},
+				{"fach": "M", "kurs": "L2", "lehrer": "Kal", "raum": "H410"},
+				{"fach": "PH", "kurs": "L1", "lehrer": "Dol", "raum": "H403"}
+			],
+			[
+				"3 - 4", "GK3",
+				{"fach": "KU", "kurs": "G1", "lehrer": "Ba", "raum": "H502"},
+				{"fach": "LI", "kurs": "G1", "lehrer": "Hbt", "raum": "H208"},
+				{"fach": "MU", "kurs": "G1", "lehrer": "Bu", "raum": "H300"}, 
+				{"fach": "S0", "kurs": "G2", "lehrer": "FrC", "raum": "H106"}
+			],
+			[
+				"5", "GK8",
+				{"fach": "BI", "kurs": "G1", "lehrer": "Ger", "raum": "H206"},
+				{"fach": "GE", "kurs": "G1", "lehrer": "Keu", "raum": "H305"}, 
+				{"fach": "PA", "kurs": "G1", "lehrer": "JK", "raum": "H411"},
+				{"fach": "IV", "kurs": "G1", "lehrer": "Zu", "raum": "H300"}
+			],
+			[
+				"6", "GK8",
+				{"fach": "BI", "kurs": "G1", "lehrer": "Ger", "raum": "H206"},
+				{"fach": "GE", "kurs": "G1", "lehrer": "Keu", "raum": "H305"}, 
+				{"fach": "PA", "kurs": "G1", "lehrer": "JK", "raum": "H411"},
+				{"fach": "IV", "kurs": "G1", "lehrer": "Zu", "raum": "H300"}
+			],
+			[
+				"7 - 8", "GK2",
+				{"fach": "KR", "kurs": "G1", "lehrer": "Hbt", "raum": "H411"},
+				{"fach": "KR", "kurs": "G2", "lehrer": "Dah", "raum": "H410"},
+				{"fach": "ER", "kurs": "G1", "lehrer": "Me", "raum": "H209"},
+				{"fach": "PL", "kurs": "G1", "lehrer": "Cre", "raum": "H209"},
+				{"fach": "PL", "kurs": "G2", "lehrer": "Ign", "raum": "H209"}
+			],
+			[
+				"9 - 10", "GK4",
+				{"fach": "SP", "kurs": "G1", "lehrer": "Hlm", "raum": "B-1"},
+				{"fach": "SP", "kurs": "G2", "lehrer": "Ht", "raum": "E-1"},
+				{"fach": "SP", "kurs": "G3", "lehrer": "Gue", "raum": "H109"},
+				{"fach": "SP", "kurs": "G4", "lehrer": "Bch", "raum": "E-3"}
+			]
+		],
+		"freitag": [
+			[
+				"1 - 2", "GK",
+				{"fach": "S0", "kurs": "G1", "lehrer": "Fe", "raum": "H106"},
+				{"fach": "S0", "kurs": "G2", "lehrer": "FrC", "raum": "H105"}
+			],
+			[
+				"3 - 4", "GK5",
+				{"fach": "CH", "kurs": "G2", "lehrer": "Sil", "raum": "H405"},
+				{"fach": "E", "kurs": "G2", "lehrer": "FrA", "raum": "H209"},
+				{"fach": "F", "kurs": "G1", "lehrer": "Sty", "raum": "H105"},
+				{"fach": "GE", "kurs": "G2", "lehrer": "Fin", "raum": "H305"},
+				{"fach": "S0", "kurs": "G3", "lehrer": "FrC", "raum": "H106"}
+			],
+			[
+				"5", "LK1",
+				{"fach": "D", "kurs": "L1", "lehrer": "Ign", "raum": "H307"},
+				{"fach": "E", "kurs": "L1", "lehrer": "Wei", "raum": "H112"},
+				{"fach": "EK", "kurs": "L1", "lehrer": "Sim", "raum": "H303"},
+				{"fach": "GE", "kurs": "L1", "lehrer": "Hah", "raum": "H305"},
+				{"fach": "M", "kurs": "L1", "lehrer": "Gru", "raum": "H411"}
+			],
+			[
+				"6", "LK1",
+				{"fach": "D", "kurs": "L1", "lehrer": "Ign", "raum": "H307"},
+				{"fach": "E", "kurs": "L1", "lehrer": "Wei", "raum": "H112"},
+				{"fach": "EK", "kurs": "L1", "lehrer": "Sim", "raum": "H303"},
+				{"fach": "GE", "kurs": "L1", "lehrer": "Hah", "raum": "H305"},
+				{"fach": "M", "kurs": "L1", "lehrer": "Gru", "raum": "H411"}
+			],
+			[
+				"7 - 8", "GK1",
+				{"fach": "D", "kurs": "G3", "lehrer": "Dah", "raum": "H304"} 
+			]
+		]
+	},
+	"b_woche": {
+		"montag": [
+			[
+				"1 - 2", "LK2",
+				{"fach": "BI", "kurs": "L1", "lehrer": "Di", "raum": "H206"},
+				{"fach": "CH", "kurs": "L1", "lehrer": "BLS", "raum": "BLS3"},
+				{"fach": "D", "kurs": "L2", "lehrer": "Lou", "raum": "H304"},
+				{"fach": "E", "kurs": "L2", "lehrer": "Sna", "raum": "H113"},
+				{"fach": "F", "kurs": "L1", "lehrer": "BLS", "raum": "BLS4"}, 
+				{"fach": "GE", "kurs": "L2", "lehrer": "Keu", "raum": "H305"},
+				{"fach": "M", "kurs": "L2", "lehrer": "Kal", "raum": "H410"},
+				{"fach": "PH", "kurs": "L1", "lehrer": "Dol", "raum": "H401"}
+			],
+			[
+				"3 - 4", "GK5",
+				{"fach": "CH", "kurs": "G2", "lehrer": "Sil", "raum": "H405"},
+				{"fach": "E", "kurs": "G2", "lehrer": "FrA", "raum": "H113"},
+				{"fach": "F", "kurs": "G1", "lehrer": "Sty", "raum": "H105"},
+				{"fach": "GE", "kurs": "G2", "lehrer": "Fin", "raum": "H305"},
+				{"fach": "S0", "kurs": "G3", "lehrer": "FrC", "raum": "H106"}
+			],
+			[
+				"5", "",
+				{"fach": "PXBC", "kurs": "", "lehrer": "Sim", "raum": "H206"},
+				{"fach": "D", "kurs": "G3", "lehrer": "Dah", "raum": "H303"},
+				{"fach": "VXEG", "kurs": "", "lehrer": "Stz", "raum": "N108"},
+				{"fach": "VXDG", "kurs": "", "lehrer": "Stz", "raum": "N108"}
+			],
+			[
+				"6", "",
+				{"fach": "PXBC", "kurs": "", "lehrer": "Sim", "raum": "H206"},
+				{"fach": "D", "kurs": "G3", "lehrer": "Dah", "raum": "H303"},
+				{"fach": "VXEG", "kurs": "", "lehrer": "Stz", "raum": "N108"},
+				{"fach": "VXDG", "kurs": "", "lehrer": "Stz", "raum": "N108"}
+			],
+			[
+				"7 - 8", "",
+				{"fach": "PXGE", "kurs": "", "lehrer": "Fin", "raum": "N307"},
+				{"fach": "BI", "kurs": "G2", "lehrer": "Dol", "raum": "H206"},
+				{"fach": "D", "kurs": "G2", "lehrer": "Har", "raum": "H304"},
+				{"fach": "S0", "kurs": "G1", "lehrer": "Fe", "raum": "H105"},
+				{"fach": "SW", "kurs": "G2", "lehrer": "Sna", "raum": "H105"}
+			],
+			[
+				"9 - 10", "",
+				{"fach": "SP", "kurs": "G5", "lehrer": "Bch", "raum": "E-1"}
+			]
+		],
+		"dienstag": [
+			[
+				"1 - 2", "GK2",
+				{"fach": "KR", "kurs": "G1", "lehrer": "Hbt", "raum": "H411"},
+				{"fach": "KR", "kurs": "G2", "lehrer": "Dah", "raum": "H410"},
+				{"fach": "ER", "kurs": "G1", "lehrer": "Me", "raum": "H213"},  
+				{"fach": "PL", "kurs": "G1", "lehrer": "Cre", "raum": "H213"},
+				{"fach": "PL", "kurs": "G2", "lehrer": "Ign", "raum": "H213"}
+			],
+			[
+				"3 - 4", "LK1",
+				{"fach": "D", "kurs": "L1", "lehrer": "Ign", "raum": "H304"},
+				{"fach": "E", "kurs": "L1", "lehrer": "Wei", "raum": "H213"},
+				{"fach": "EK", "kurs": "L1", "lehrer": "Sim", "raum": "H307"},  
+				{"fach": "GE", "kurs": "L1", "lehrer": "Hah", "raum": "H305"},
+				{"fach": "M", "kurs": "L1", "lehrer": "Gru", "raum": "H411"}
+			],
+			[
+				"5", "GK5",
+				{"fach": "CH", "kurs": "G2", "lehrer": "Sil", "raum": "H405"},
+				{"fach": "E", "kurs": "G2", "lehrer": "FrA", "raum": "H112"},
+				{"fach": "F", "kurs": "G1", "lehrer": "Sty", "raum": "H105"},
+				{"fach": "GE", "kurs": "G2", "lehrer": "Fin", "raum": "H305"},
+				{"fach": "S0", "kurs": "G3", "lehrer": "FrC", "raum": "N214"}
+			],
+			[
+				"6", "GK5",
+				{"fach": "CH", "kurs": "G2", "lehrer": "Sil", "raum": "H405"},
+				{"fach": "E", "kurs": "G2", "lehrer": "FrA", "raum": "H112"},
+				{"fach": "F", "kurs": "G1", "lehrer": "Sty", "raum": "H105"},
+				{"fach": "GE", "kurs": "G2", "lehrer": "Fin", "raum": "H305"},
+				{"fach": "S0", "kurs": "G3", "lehrer": "FrC", "raum": "N214"}
+			],
+			[
+				"7", "LK2",
+				{"fach": "BI", "kurs": "L1", "lehrer": "Di", "raum": "H204"},
+				{"fach": "CH", "kurs": "L1", "lehrer": "BLS", "raum": "BLS3"},
+				{"fach": "D", "kurs": "L2", "lehrer": "Lou", "raum": "H307"},
+				{"fach": "E", "kurs": "L2", "lehrer": "Sna", "raum": "H211"},
+				{"fach": "F", "kurs": "L1", "lehrer": "BLS", "raum": "BLS4"},  
+				{"fach": "GE", "kurs": "L2", "lehrer": "Keu", "raum": "H414"}
+			],
+			[
+				"9 - 10", "",
+				{"fach": "C02", "kurs": "", "lehrer": "Zu", "raum": "H300"}
+			]
+		],
+		"mittwoch": [
+			[
+				"1 - 2", "",
+				{"fach": "BI", "kurs": "G2", "lehrer": "Dol", "raum": "H206"},
+				{"fach": "D", "kurs": "G2", "lehrer": "Har", "raum": "H307"}, 
+				{"fach": "S0", "kurs": "G1", "lehrer": "FE", "raum": "H105"},
+				{"fach": "SW", "kurs": "G2", "lehrer": "Sna", "raum": "H405"}
+			],
+			[
+				"3 - 4", "GK6",
+				{"fach": "EK", "kurs": "G1", "lehrer": "Ber", "raum": "H303"},
+				{"fach": "EKEG", "kurs": "", "lehrer": "Hz", "raum": "H307"},
+				{"fach": "M", "kurs": "G1", "lehrer": "Cre", "raum": "H410"},  
+				{"fach": "SW", "kurs": "G1", "lehrer": "Lou", "raum": "H415"}
+			],
+			[
+				"5", "GK7",
+				{"fach": "D", "kurs": "G1", "lehrer": "Dah", "raum": "H304"},
+				{"fach": "E", "kurs": "G1", "lehrer": "Br", "raum": "H215"},  
+				{"fach": "M", "kurs": "G2", "lehrer": "Kal", "raum": "H414"}
+			],
+			[
+				"6", "GK7",
+				{"fach": "D", "kurs": "G1", "lehrer": "Dah", "raum": "H304"},
+				{"fach": "E", "kurs": "G1", "lehrer": "Br", "raum": "H215"},  
+				{"fach": "M", "kurs": "G2", "lehrer": "Kal", "raum": "H414"}
+			],
+			[
+				"7 - 8", "GK9",
+				{"fach": "BI", "kurs": "G3", "lehrer": "Sel", "raum": "H206"},
+				{"fach": "CH", "kurs": "G1", "lehrer": "Fel", "raum": "H405"},
+				{"fach": "KU", "kurs": "G2", "lehrer": "Ba", "raum": "H502"},  
+				{"fach": "PA", "kurs": "G2", "lehrer": "JK", "raum": "H410"},
+				{"fach": "PH", "kurs": "G1", "lehrer": "Vo", "raum": "H401"}
+			]
+		],
+		"donnerstag": [
+			[
+				"1 - 2", "LK2",
+				{"fach": "BI", "kurs": "L1", "lehrer": "Di", "raum": "H206"},
+				{"fach": "CH", "kurs": "L1", "lehrer": "BLS", "raum": "BLS3"},
+				{"fach": "D", "kurs": "L2", "lehrer": "Lou", "raum": "H304"},
+				{"fach": "E", "kurs": "L2", "lehrer": "Sna", "raum": "H210"},
+				{"fach": "F", "kurs": "L1", "lehrer": "BLS", "raum": "BLS4"},  
+				{"fach": "GE", "kurs": "L2", "lehrer": "Keu", "raum": "H307"},
+				{"fach": "M", "kurs": "L2", "lehrer": "Kal", "raum": "H410"},
+				{"fach": "PH", "kurs": "L1", "lehrer": "Dol", "raum": "H403"}
+			],
+			[
+				"3 - 4", "GK3",
+				{"fach": "KU", "kurs": "G1", "lehrer": "Ba", "raum": "H502"},
+				{"fach": "LI", "kurs": "G1", "lehrer": "Hbt", "raum": "H208"},
+				{"fach": "MU", "kurs": "G1", "lehrer": "Bu", "raum": "H300"},  
+				{"fach": "S0", "kurs": "G2", "lehrer": "FrC", "raum": "H106"}
+			],
+			[
+				"5", "LK1",
+				{"fach": "D", "kurs": "L1", "lehrer": "Ign", "raum": "H304"},
+				{"fach": "E", "kurs": "L1", "lehrer": "Wei", "raum": "H211"},
+				{"fach": "EK", "kurs": "L1", "lehrer": "Sim", "raum": "H303"},  
+				{"fach": "GE", "kurs": "L1", "lehrer": "Hah", "raum": "H305"},
+				{"fach": "M", "kurs": "L1", "lehrer": "Gru", "raum": "H411"}
+			],
+			[
+				"6", "LK1",
+				{"fach": "D", "kurs": "L1", "lehrer": "Ign", "raum": "H304"},
+				{"fach": "E", "kurs": "L1", "lehrer": "Wei", "raum": "H211"},
+				{"fach": "EK", "kurs": "L1", "lehrer": "Sim", "raum": "H303"},  
+				{"fach": "GE", "kurs": "L1", "lehrer": "Hah", "raum": "H305"},
+				{"fach": "M", "kurs": "L1", "lehrer": "Gru", "raum": "H411"}
+			],
+			[
+				"7 - 8", "GK4",
+				{"fach": "SP", "kurs": "G1", "lehrer": "Hlm", "raum": "B-1"},
+				{"fach": "SP", "kurs": "G2", "lehrer": "Ht", "raum": "E-1"},
+				{"fach": "SP", "kurs": "G3", "lehrer": "Gue", "raum": "H109"},
+				{"fach": "SP", "kurs": "G4", "lehrer": "Bch", "raum": "E-3"}
+			]
+		],
+		"freitag": [
+			[
+				"1 - 2", "GK8",
+				{"fach": "BI", "kurs": "G1", "lehrer": "Ger", "raum": "H206"},
+				{"fach": "GE", "kurs": "G1", "lehrer": "Keu", "raum": "H305"},  
+				{"fach": "PA", "kurs": "G1", "lehrer": "JK", "raum": "H410"},
+				{"fach": "IV", "kurs": "G1", "lehrer": "Zu", "raum": "H300"}
+			],
+			[
+				"3 - 4", "GK7",
+				{"fach": "PXCH", "kurs": "", "lehrer": "Fel", "raum": "H405"},
+				{"fach": "D", "kurs": "G1", "lehrer": "Dah", "raum": "H302"},
+				{"fach": "E", "kurs": "G1", "lehrer": "Br", "raum": "H210"},  
+				{"fach": "M", "kurs": "G2", "lehrer": "Kal", "raum": "H411"}
+			],
+			[
+				"5", "LK1",
+				{"fach": "D", "kurs": "L1", "lehrer": "Ign", "raum": "H307"},
+				{"fach": "E", "kurs": "L1", "lehrer": "Wei", "raum": "H112"},
+				{"fach": "EK", "kurs": "L1", "lehrer": "Sim", "raum": "H303"},  
+				{"fach": "GE", "kurs": "L1", "lehrer": "Hah", "raum": "H305"},
+				{"fach": "M", "kurs": "L1", "lehrer": "Gru", "raum": "H411"}
+			],
+			[
+				"6", "LK1",
+				{"fach": "D", "kurs": "L1", "lehrer": "Ign", "raum": "H307"},
+				{"fach": "E", "kurs": "L1", "lehrer": "Wei", "raum": "H112"},
+				{"fach": "EK", "kurs": "L1", "lehrer": "Sim", "raum": "H303"},  
+				{"fach": "GE", "kurs": "L1", "lehrer": "Hah", "raum": "H305"},
+				{"fach": "M", "kurs": "L1", "lehrer": "Gru", "raum": "H411"}
+			],
+			[
+				"7 - 8", "GK6",
+				{"fach": "EK", "kurs": "G1", "lehrer": "Ber", "raum": "H303"},
+				{"fach": "EKEG", "kurs": "", "lehrer": "Hz", "raum": "H304"},
+				{"fach": "M", "kurs": "G1", "lehrer": "Cre", "raum": "H410"},  
+				{"fach": "SW", "kurs": "G1", "lehrer": "Lou", "raum": "H415"}
+			]
+		]
+	}
+}
